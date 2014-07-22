@@ -1,9 +1,10 @@
 tomcatTest
 ==========
 
-tomcat用のhelloworldプロジェクト
+tomcat7用のhelloworldプロジェクト
 
-- cd webapps
-- git clone
-- ../bin/start.sh
-
+```bash
+$ cd webapps
+$ git clone https://github.com/hakopako/tomcatTest  
+$ ../bin/start.sh
+```
